@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "994814945535",
+    "project_id": "charje-92986",
+    "storage_bucket": "charje-92986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994814945535:android:7aad8bd20a7db40d3dc4ca",
+        "android_client_info": {
+          "package_name": "com.flutterflow.charje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994814945535-2kcof6e1f6io6tdlh4nbbqots2prhhhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.charje",
+            "certificate_hash": "46dee738c956db33d9e12d8783c2c1f26981f6a6"
+          }
+        },
+        {
+          "client_id": "994814945535-cr5olfue50kba65iq6q75dkmvj5iulq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.charje",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "994814945535-jbmlqs3ot60nn6a5rmaagju32sli401p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeyj_glEl2pg4cXLvJfgwg0dgZoiN5I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994814945535-215invkjnkc2hjtgk5t9390qp2nqdqme.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994814945535-gs1lu0776620revm8en0r8mg4c1sk86p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.charjebeta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994814945535:android:b8020e0dc5d69d483dc4ca",
+        "android_client_info": {
+          "package_name": "com.mycompany.charjebeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994814945535-5776ia9jlclrg4g56psf3sq7ccqt8tov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.charjebeta",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "994814945535-jbmlqs3ot60nn6a5rmaagju32sli401p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeyj_glEl2pg4cXLvJfgwg0dgZoiN5I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994814945535-215invkjnkc2hjtgk5t9390qp2nqdqme.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994814945535-gs1lu0776620revm8en0r8mg4c1sk86p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.charjebeta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
