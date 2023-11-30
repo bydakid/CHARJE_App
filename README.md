@@ -1,6 +1,4 @@
-# CHARJE
-
-## IOS/Andriod
+# CHARJE (iOS, Andriod)
 
 ## EV Charger Map Project
 
