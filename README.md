@@ -17,3 +17,8 @@ Charje is a user-friendly application built on Flutter, designed to simplify the
 - Select a Charger: Choose a charging station based on your preferences and requirements.
 - Start Charging: Connect your electric vehicle and start charging hassle-free.
 
+## Languages
+- Flutter
+- HTML
+- Swift
+
