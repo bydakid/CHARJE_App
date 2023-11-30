@@ -19,6 +19,4 @@ Charje is a user-friendly application built on Flutter, designed to simplify the
 
 ## Languages
 - Flutter
-- HTML
-- Swift
 
