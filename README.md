@@ -1,6 +1,6 @@
 # CHARJE
 
-## EV Charger Map Project (iOS, Andriod)
+## EV Charger Map Project - iOS / Andriod
 
 Charje is a user-friendly application built on Flutter, designed to simplify the search for nearby EV chargers and enhance the experience of electric vehicle (EV) owners. Say goodbye to the hassle of finding a charging station with our comprehensive map and intuitive interface.
 
