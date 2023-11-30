@@ -13,6 +13,7 @@ Charje is a user-friendly application built on Flutter, designed to simplify the
 
 ## How to Use
 - Download the App: Get started by downloading Charje from the App Store or Google Play Store.
+  https://apps.apple.com/us/app/charje/id6446139178?platform=iphone
 - Search for a Location: Use the search feature to find nearby EV chargers or explore the map.
 - Select a Charger: Choose a charging station based on your preferences and requirements.
 - Start Charging: Connect your electric vehicle and start charging hassle-free.
