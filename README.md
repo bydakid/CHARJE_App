@@ -1,31 +1,19 @@
 # CHARJE
 
-A new Flutter project.
+# EV Charger Map Project
 
-## Getting Started
+Charje is a user-friendly application designed to simplify the search for nearby EV chargers and enhance the experience of electric vehicle (EV) owners. Say goodbye to the hassle of finding a charging station with our comprehensive map and intuitive interface.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+# Key Features
+Find Nearby EV Chargers: Easily locate EV chargers in your vicinity, ensuring you're never too far away from a charging station.
+Add New Locations: Contribute to the community by adding new charging locations to the map, making it more comprehensive for everyone.
+User-Generated Content: Share your reviews and ratings of each charging station, helping fellow drivers make informed decisions.
+Detailed Charger Information: Access detailed information about each charging station to ensure it meets your specific needs.
+Intuitive Interface: Navigate effortlessly through the app to find, select, and utilize EV chargers with ease.
 
-### IMPORTANT:
+# How to Use
+Download the App: Get started by downloading Charje from the App Store or Google Play Store.
+Search for a Location: Use the search feature to find nearby EV chargers or explore the map.
+Select a Charger: Choose a charging station based on your preferences and requirements.
+Start Charging: Connect your electric vehicle and start charging hassle-free.
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
-
-```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
-```
-
-This command creates the generated files that parse each Record from Firestore into a schema object.
-
-### Getting started continued:
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
