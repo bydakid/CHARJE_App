@@ -1,5 +1,7 @@
 # CHARJE
 
+## IOS/Andriod
+
 ## EV Charger Map Project
 
 Charje is a user-friendly application designed to simplify the search for nearby EV chargers and enhance the experience of electric vehicle (EV) owners. Say goodbye to the hassle of finding a charging station with our comprehensive map and intuitive interface.
