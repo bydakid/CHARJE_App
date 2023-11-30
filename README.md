@@ -1,8 +1,8 @@
-# CHARJE (iOS, Andriod)
+# CHARJE
 
-## EV Charger Map Project
+## EV Charger Map Project (iOS, Andriod)
 
-Charje is a user-friendly application designed to simplify the search for nearby EV chargers and enhance the experience of electric vehicle (EV) owners. Say goodbye to the hassle of finding a charging station with our comprehensive map and intuitive interface.
+Charje is a user-friendly application built on Flutter, designed to simplify the search for nearby EV chargers and enhance the experience of electric vehicle (EV) owners. Say goodbye to the hassle of finding a charging station with our comprehensive map and intuitive interface.
 
 ## Key Features
 - Find Nearby EV Chargers: Easily locate EV chargers in your vicinity, ensuring you're never too far away from a charging station.
